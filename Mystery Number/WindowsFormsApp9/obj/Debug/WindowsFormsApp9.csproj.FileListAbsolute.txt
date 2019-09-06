@@ -1,0 +1,20 @@
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\RaadhetGetalTkes.frmMysteryTkes.resources
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Thijs\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\obj\Debug\RaadhetGetalTkes.frmMysteryTkes.resources
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+F:\School\Applicatie\Mystery Number (soort van werkend)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
